@@ -113,7 +113,7 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: https://github.com/escape567/hexo-matery-modified
+    github: https://escape567.github.io/JiayingLiu.github.io/
     # coding: git@e.coding.net:godweiyang/godweiyang.git
   branch: master
 - type: baidu_url_submitter
