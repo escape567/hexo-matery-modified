@@ -111,12 +111,9 @@ theme: matery
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-- type: git
+  type: git
   repository: https://github.com/escape567/JiayingLiu.github.io
-    #github: https://escape567.github.io/JiayingLiu.github.io/
-    # coding: git@e.coding.net:godweiyang/godweiyang.git
   branch: master
-- type: baidu_url_submitter
 
 
 live2d:
