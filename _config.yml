@@ -112,7 +112,7 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/escape567/JiayingLiu.github.io
+  repository: https://escape567.github.io/hexo-matery-modified/
   branch: master
 
 
